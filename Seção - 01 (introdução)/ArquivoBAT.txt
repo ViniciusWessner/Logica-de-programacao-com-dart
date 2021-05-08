@@ -1,0 +1,6 @@
+notepad
+calc
+start www.google.comm
+
+nao coloquei o arquivo com extensao .bat porque nao preciso realizar isso
+

@@ -1,0 +1,10 @@
+algoritimo para ir beber:
+
+chega no bar;
+chama o garçom;
+se tiver skol
+	tome skol;
+se nao tiver
+	tome bud;
+se nao tiver
+	levante e va embora;

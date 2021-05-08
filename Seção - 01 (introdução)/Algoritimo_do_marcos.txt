@@ -1,0 +1,6 @@
+Algoritimo do marcos
+
+Abrir software da empresa;
+Abrir bloco de notas;
+Abrir navegador;
+Abrir calculadora;
