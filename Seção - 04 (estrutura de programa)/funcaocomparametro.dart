@@ -1,3 +1,4 @@
+//Criamos uma funcao, e tiramos o codigo para fora da funcao main, ai chamamos o nome da nossa funcao dentro da funcao "main(){}"
 import 'dart:io';
 
 main() {
@@ -20,6 +21,11 @@ calculoIMC(){
   //multiplicar altura X ela mesmo e dividir pelo peso
   var calc = peso/(altura*altura);
   //mostrar para o usuario
+  
+}
+
+imprimirResultado(){
+  
   print(calc);
   if (calc <18.5) {
     print("Abaixo do peso");
@@ -40,6 +46,7 @@ calculoIMC(){
     print("Obesidade grau 3");
     
   }
+  
 }
 
 

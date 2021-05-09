@@ -1,3 +1,4 @@
+//Criamos uma funcao, e tiramos o codigo para fora da funcao main, ai chamamos o nome da nossa funcao dentro da funcao "main(){}"
 import 'dart:io';
 
 main() {
